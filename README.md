@@ -18,3 +18,9 @@
 - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
 - [Convolutional Neural Networks for Sentence Classification](https://aclanthology.org/D14-1181/)
 - [Convolutional, Long Short-Term Memory, fully connected Deep Neural Networks](https://ieeexplore.ieee.org/document/7178838)
+
+### Optimizations
+
+- [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
+- [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
+- [Understanding the difficulty of training deep feedforward neural networks](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
